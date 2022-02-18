@@ -22,4 +22,6 @@ export class AppComponent {
   public activar : boolean = true;
 
   public arrNumeros : number[] = [1,2,3,4,5,6,7,8,9,10];
+
+  public video : string = "dQw4w9WgXcQ";
 }
